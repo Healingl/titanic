@@ -1,4 +1,4 @@
 # titanic
 Kaggle.com Titanic Simple Classification Model
 
-current best score: 0.79904 - rank 1608 ~Top 17%
+current best score: 0.80382 - rank 1128 ~Top 12%
